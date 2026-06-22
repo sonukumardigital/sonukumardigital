@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Sonu Kumar 👋
 
-<!--
-**sonukumardigital/sonukumardigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a BBA student passionate about Artificial Intelligence, Digital Marketing, Business, Entrepreneurship, and Personal Branding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to develop practical skills that bridge the gap between business and technology while building a future-ready career.
+
+I believe in:
+
+* Continuous Learning
+* Building Real Projects
+* Public Documentation
+* Portfolio Development
+* Professional Growth
+
+## Current Learning Focus
+
+🤖 Artificial Intelligence
+
+📈 Digital Marketing
+
+💼 Business Strategy
+
+🚀 Entrepreneurship
+
+📚 Productivity Systems
+
+## What You'll Find Here
+
+* AI Learning Journals
+* Prompt Engineering Projects
+* Business Case Studies
+* Digital Marketing Projects
+* Certifications & Notes
+* Portfolio Assets
+
+## Current Goal
+
+To become a skilled professional at the intersection of AI, Business, Marketing, and Entrepreneurship.
+
+## Philosophy
+
+Learning → Building → Sharing
+
+## Connect With Me
+
+LinkedIn: [www.linkedin.com/in/sonukumardigital]
+
+Medium: [Add Your Link]
+
+X: [@Sonukumardigi]
+
